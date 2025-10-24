@@ -1,0 +1,11 @@
+{
+  "layer_number": 0,
+  "fill_angle_deg": 45.0,
+  "fill_spacing": 0.5,
+  "island_width": 5.0,
+  "island_overlap": 0.0,
+  "island_offset": 0.5,
+  "contours": [
+    [[0, 0], [10, 0], [10, 10], [0, 10], [0, 0]]
+  ]
+}
